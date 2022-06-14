@@ -10,7 +10,7 @@ flask run
 http://127.0.0.1:5000
 
 ## Result 
-Animation de surbrillance + déplacement des rectangles.
+
 Home :<br>
 ![alt text](https://zupimages.net/up/22/24/a9q0.png)
 
