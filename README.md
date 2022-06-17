@@ -11,17 +11,11 @@ http://127.0.0.1:5000
 
 ## Result 
 
-Home :<br>
-![alt text](https://zupimages.net/up/22/24/kmmd.png)
+Menu fermé :
+![alt text](https://zupimages.net/up/22/24/kmmd.png) ![alt text](https://zupimages.net/up/22/24/bflf.png)
 
-Photo : <br>
-![alt text](https://zupimages.net/up/22/24/bflf.png)
 
 ---
 
 Ouverture du menu en bas à gauche
-Home :<br>
-![alt text](https://zupimages.net/up/22/24/vrnb.png)
-
-Photo : <br>
-![alt text](https://zupimages.net/up/22/24/4azo.png)
+![alt text](https://zupimages.net/up/22/24/vrnb.png) ![alt text](https://zupimages.net/up/22/24/4azo.png)
